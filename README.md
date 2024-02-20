@@ -1,7 +1,7 @@
 # gitHubTest2
 
-Create a gitHub Account
-Create a Repository
-Create a CodeSpace VM
-Modified the README file
-Work in Terminal
+1. Create a gitHub Account
+2. Create a Repository
+3. Create a CodeSpace VM
+4. Modified the README file
+5. Work in Terminal
